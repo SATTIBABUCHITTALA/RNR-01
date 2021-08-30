@@ -1,0 +1,156 @@
+Today is our First Session:-
+
+Pre Requesits:- 
+
+1. Installation JDK installation 
+
+2. IDE- Integration Development Environment 
+Eclipse
+
+1. Core Java:- Java SE
+
+2. Adv Java :- JSP, Servlets:- Web Applications
+
+3. Spring Framework
+
+4. Tools:-  Github,SVN 
+
+5. Oracle to work with Database
+
+6. Jenkins
+
+7. Spring Boot And Micro Services
+
+8. Resume Preparation
+
+9. Will discuss the Interview questions on Java and Spring ---Full stack Development
+
+10. Angular Technology ---Front End
+
+
+
+11. Javascript 
+
+I am Satti Babu 
+
+Have 7 + years of  Experience in Industry
+Tcs, Gap, Mindgate, Cyient
+3+ years of Experience in Training
+
+Every day session will start at 8 AM
+
+5 days in a week
+
+I will give u rights to record the session 
+
+will provide the notes in daily basis. 
+
+1 Month --- Core Java 
+
+20 Sessions --- 
+
+Will discuss the Interview Quesitons on Core java
+
+1 Month 
+
+20 sessions -- Will discuss the JSP and Servlet, HTML,CSS,JavaScript 
+
+Tools:- 2 days Github, SVN, Jenkins, Eclipse, Intelliji
+
+ 30  Sessions:- 
+Spring Framework 
+
+Mini Projects -2 Projects
+Major Project- 1 
+
+10 Sessions for Oracle Database
+
+JDK--- Jdk 1.8 
+
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+
+
+https://www.eclipse.org/downloads/packages/release/neon/3/eclipse-ide-java-ee-developers
+
+
+
+Java  1991 Sun Micro systems, Oracle Corporation James Gosling. 
+
+Human effort has been reduced
+
+We have multiple Progarmming Languages Like C, C++, Java, Python
+
+Applications:- 
+
+Desktop Applications
+Web Applications
+Distributed Applciations -- One Applicaiton is communicating with another Application.
+
+We should learn some terms:- 
+
+JVM:-
+How java works:- 
+
+1. Writing the code
+2. Compiling
+3. Run the code 
+
+
+
+
+JRE
+
+
+bytecode 
+
+JDK:- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

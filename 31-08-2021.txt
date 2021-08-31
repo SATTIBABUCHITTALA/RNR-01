@@ -1,0 +1,167 @@
+JVM:- Java Virtual Machine
+
+
+JRE:- Java Runtime Environment
+
+
+bytecode:-Machine Understandable Language
+
+
+JDK:- Java Development Kit
+
+
+IDE:- 
+
+
+
+JVM is going to compile the program and convert into bytecode
+
+JRE - is going to run the program 
+
+
+
+JDK:-JVM+JRE+SOME DEVELOPMENT TOOLS
+
+1. create a file firstprogram.java 
+2. compile the file javac firstprogram.java
+3. run the file java firstprogram
+
+Main Features of java:-
+
+Platform Independent Langauge:- 
+Helloworld.java
+
+Helloworld.class 
+
+It is an Object Oriented Language
+Way of Represeting programming as objects. 
+1. Abstraction
+2. Inheritance
+3. Polymorphysm
+4. Interface
+5. Encapsulation
+
+Simple
+
+public class FirstProgram{
+
+public static void main(String args[]){
+
+
+}
+
+
+
+}
+
+
+
+
+
+Robust:- Exception Handling, Garbage Collection
+
+Multi threading:- 
+
+
+Secure :- 
+Pointers
+Portable:- Write once Run Anywhere 
+
+
+JAVA_HOME 
+
+
+
+
+
+JVM Architecture:-
+
+
+public class Helloworld{
+
+public static void main(String args[]){
+
+
+
+}
+
+
+}
+
+JVM is going to Execute program
+
+Variables:- It is a name which hold some value.
+
+variable name always starts with small letter. $,_
+
+different types of Variables:- 
+1. Static varaibles
+
+2. Instance Variables
+
+3. Local Variables 
+
+
+
+String name="Satti Babu" ;
+int num=10;
+
+Datatypes:- 
+
+char --- 'a'  1 byte
+
+byte ---8 bits 0-128
+
+int --- 4 bytes 
+
+
+float --- 4bytes 
+
+double --- 8 bytes 
+
+long -- 
+
+boolean
+
+String is a class ----- 
+
+
+
+
+
+Naming Conventions:- 
+
+
+Datatypes:- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

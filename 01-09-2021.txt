@@ -1,0 +1,51 @@
+01-09-2021
+
+Class Will start AT 8:05 AM 
+
+Yesterday's 
+
+features
+
+variables:- 
+
+static:- Class level varirables are executed once in an application. 
+
+int variablename;
+
+static int variablename;
+
+Instance Variable:- It is an object level variable
+
+int i;
+
+Local Variables:- Blocked variables. When we write a function and declare a variable. It is going to be used with in that fucntion only. 
+
+
+class:-Class is a bluprint which consists of  members/variables and functions.
+
+Blueprint:- 
+
+Object:- An object is an instance of that class 
+
+
+College:- is a class
+
+1000 students 
+
+Laptop:- is a class. Properties of a Laptop, Audio, Drivers, Screen, Keypad. 
+
+My Laptop , GJ Laptop, Veera Laptops are the objects of that Laptop Class.
+
+object:- 
+
+
+
+
+
+instance variables
+
+local variables
+
+
+
+Datatypes

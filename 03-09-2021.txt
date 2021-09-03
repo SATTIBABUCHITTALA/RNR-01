@@ -1,0 +1,130 @@
+Variables in java
+
+3 types of Variables in java
+1. static variables
+2. Instance variables
+3. local variables
+
+static variables:- 
+
+instance variables:- object level variables.
+
+Local Variables:- Method level variables. 
+
+
+
+void func(int num){
+
+int i;
+
+
+}
+
+Naming Conventions:- 
+
+1. class;- Always should start with CapitalLetter and it should be meaninful. 
+
+class classname{
+
+
+}
+
+class BDetailsOfSAccountHold{
+
+
+}
+
+
+
+2. object:- It starts with small letter and it should be relevant to the classname;
+
+
+bank
+
+BankDetails bankDetails=new BankDetails();\
+class BankDetails{
+
+String accountNumber;
+String accountHolderName;
+
+int depositMoneyIntoSavingsAccount(String accountNumber, String ifsccode, int amount){
+
+
+}
+
+}
+
+public class BankDetailss{
+
+public static void main(String args[]){
+
+BankDetails bankDetails=new BankDetails();
+
+bankDetails.
+
+
+
+}
+
+
+
+}
+
+Method Declaration:- 
+
+void methodName();
+
+
+Method Definition:-
+void methodName(){
+
+
+}
+3. interface:- It is a service. which consists of one or more Method Difinitions. 
+void methodName();
+
+class Clanname implements interfacename{
+
+void methodName(){
+
+}
+}
+
+
+4. method/function
+input Parameter
+void getBankAccountDetails(String accountNumber){
+
+
+}|
+5. constants:- final variables
+Database
+
+
+detailsofAccountHolder="Select * from Account_holder where accountnumber="101020200";
+
+final DETAILSOFHOLDER="";
+
+int i=10;
+
+final int PI=3.14;
+
+
+i=20;
+
+
+
+i=30;
+
+
+
+
+
+
+
+
+
+
+
+
+

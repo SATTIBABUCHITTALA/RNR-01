@@ -1,0 +1,64 @@
+Session will start at 8:05 AM IST. 
+
+1. Variables
+2. Naming Conventions
+
+
+//
+Data Types :- Data type defines the value that  a vairble can take. Two type of  Data types in Java
+1. Premitive Data types
+2. Non Premitve Data types
+
+
+Arrays,String are Non -Premitive Data Types
+
+byte, char, int ,float long, double, boolean, short 
+
+byte:- It take the value from -128 -+127 
+
+byte num=123; 1byte memory
+
+char:- It takes the Character. Size is 2 bytes
+
+char name='A';
+
+int:- It takes the integers only 4 bytes
+
+int k=10;
+
+float fractional Value:- It takes the float value. It takes 4 bytes of Data
+
+float num=10.5f;
+
+double:- It takes 8 bytes
+
+double d=10.675;
+
+long:- 8 bytes
+
+long lonng_Value=10.56l
+
+boolean :- It just returns true or false. 
+boolean flag;
+
+Non -Premitive Datatypes:- 
+
+String :- It will change.
+
+Arrays[]:- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

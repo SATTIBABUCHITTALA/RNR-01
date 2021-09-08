@@ -1,0 +1,51 @@
+Good Morning
+
+Conditional Statements:-
+
+
+//
+if
+if else-if
+switch condition
+break;
+continue;
+
+//Iterations
+for loop 
+while loop
+
+//if(condtion){
+
+
+}else if(condition2){
+
+
+}
+
+switch statment:-
+
+switch(number or variable){
+
+case constant: 
+
+
+case constant:
+
+
+
+default:
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

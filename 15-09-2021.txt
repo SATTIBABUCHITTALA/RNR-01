@@ -1,0 +1,75 @@
+class A{
+	
+	
+	
+}
+class B extends A{
+	
+}
+}
+Access Modifiers:- 
+1. public --- That class or variable is going to be accessed through out the project.
+2. default ---This is called within the package.
+3. protected ---super class and sub class 
+4. private ---with in the class no outside class is allowed. 
+
+
+
+Constructors:- 
+
+We have discussed the class Structure and class members.
+
+
+
+Constructor:- 
+
+class Student{
+
+class members
+
+
+methods{
+
+
+}
+
+}
+
+for allocating memory for a class Constructor comes into picture.
+
+Constructor is a method which is used to allocate a memory to the class. The name is same as class name. It will be called when we create an object.
+
+class Student{
+
+
+
+Student(){
+
+
+}
+
+
+}
+
+Student std=new Student();
+
+Types of Constructors:
+1. Default Constructor 
+Student(){
+
+principalName="Satya";
+
+}
+2. Parameterized Constructor
+
+Student(int stdId){
+
+}
+
+
+
+
+
+
+
+
